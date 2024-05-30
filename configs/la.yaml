@@ -1,0 +1,11 @@
+# arguments for dataset
+dataset: la
+nclass: 2
+crop_size: [112,112,80]
+data_root: G:/Ai/dataset/LA/2018LA_Seg_Training Set
+
+# arguments for training
+epochs: 300
+batch_size: 12 # per GPU x 1 GPU
+lr: 0.01
+conf_thresh: 0.95
