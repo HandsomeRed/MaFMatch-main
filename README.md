@@ -33,7 +33,7 @@ Modify the `method` from `'MaFmatch'` to `'fixmatch'` in ’train.sh‘.
 
     git clone https://github.com/HandsomeRed/MaFMatch-main
 
-1.  Train the model;
+2.  Train the model;
 
 <!---->
 
@@ -41,7 +41,7 @@ Modify the `method` from `'MaFmatch'` to `'fixmatch'` in ’train.sh‘.
 
     sh train.sh
 
-1.  Test the model;
+3.  Test the model;
 
     We have uploaded the MaFMatch weight files for testing on 5% ACDC annotated data. (Note: The values are slightly higher than those in the paper as the paper reports the average values.)
 
