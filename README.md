@@ -2,7 +2,7 @@
 
 We provide the official PyTorch implementation of our MaFMatch:
 
-> Make Weak-to-Strong Consistency Work Better for Semi-supervised Medical Image Segmentation*.*
+> MaFMatch: Semi-Supervised Medical Image Segmentation Network Based on Mixed Data and Feature Augmentation*.*
 >
 > _by Jianwu Long, Yuwei Li_\*
 
